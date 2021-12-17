@@ -1,0 +1,40 @@
+*{
+    color: rgb(236, 75, 102);
+    padding: 0;
+    margin: 0;
+}
+
+header nav{
+    text-align: right;
+    padding: 0;
+    margin-right: 100px;
+}
+
+body{
+    background-color: rgb(61, 60, 60);
+    text-align: center;
+}
+
+h1{
+    color:rosybrown;
+}
+
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.amigo4patas{
+    text-align: left;
+}
+
+.col-md-4{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+div div div img{
+    width: 400px;
+    height: 300px;
+}
